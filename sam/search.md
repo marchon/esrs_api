@@ -4,6 +4,8 @@ layout: default
 
 ---
 
+## NOTE: This still refers to SAM - this is the model we will use for eSRS
+
 ### SAM Search API
 
 **NOTE: All the documentation on this page refers to the October release of the SAM API**
